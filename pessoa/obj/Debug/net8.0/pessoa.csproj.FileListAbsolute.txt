@@ -1,0 +1,14 @@
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.AssemblyInfoInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.AssemblyInfo.cs
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\bin\Debug\net8.0\pessoa.exe
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\bin\Debug\net8.0\pessoa.deps.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\bin\Debug\net8.0\pessoa.runtimeconfig.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\bin\Debug\net8.0\pessoa.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\bin\Debug\net8.0\pessoa.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\refint\pessoa.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\pessoa.genruntimeconfig.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\pessoa\obj\Debug\net8.0\ref\pessoa.dll

@@ -1,0 +1,14 @@
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\bin\Debug\net8.0\animais.exe
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\bin\Debug\net8.0\animais.deps.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\bin\Debug\net8.0\animais.runtimeconfig.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\bin\Debug\net8.0\animais.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\bin\Debug\net8.0\animais.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.AssemblyInfoInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.AssemblyInfo.cs
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.csproj.CoreCompileInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\refint\animais.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\animais.genruntimeconfig.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\01-Herança\animais\obj\Debug\net8.0\ref\animais.dll

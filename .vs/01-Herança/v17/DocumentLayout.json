@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\POO\\01-Heran\u00E7a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E51D047-EA1F-4FF1-ACAC-8F611F7B3E48}|pessoa\\pessoa.csproj|c:\\users\\ana silva\\desktop\\backend\\poo\\01-heran\u00E7a\\pessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E51D047-EA1F-4FF1-ACAC-8F611F7B3E48}|pessoa\\pessoa.csproj|solutionrelative:pessoa\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E51D047-EA1F-4FF1-ACAC-8F611F7B3E48}|pessoa\\pessoa.csproj|c:\\users\\ana silva\\desktop\\backend\\poo\\01-heran\u00E7a\\pessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E51D047-EA1F-4FF1-ACAC-8F611F7B3E48}|pessoa\\pessoa.csproj|solutionrelative:pessoa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\POO\\01-Heran\u00E7a\\pessoa\\Program.cs",
+              "RelativeDocumentMoniker": "pessoa\\Program.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\POO\\01-Heran\u00E7a\\pessoa\\Program.cs",
+              "RelativeToolTip": "pessoa\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:01:31.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\POO\\01-Heran\u00E7a\\pessoa\\pessoa.cs",
+              "RelativeDocumentMoniker": "pessoa\\pessoa.cs",
+              "ToolTip": "C:\\Users\\Ana Silva\\Desktop\\BackEnd\\POO\\01-Heran\u00E7a\\pessoa\\pessoa.cs",
+              "RelativeToolTip": "pessoa\\pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:01:39.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
